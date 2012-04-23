@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "11.1"
+DATE = "01:52:14  April 23, 2012"
+
+# Revisions
+
+PROJECT_REVISION = "de0nano_iic"
